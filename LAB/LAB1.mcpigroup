@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\7Segment\MyProject.mcppi
+Project1=LAB1.mcppi
+[ActiveProject]
+Index=1
